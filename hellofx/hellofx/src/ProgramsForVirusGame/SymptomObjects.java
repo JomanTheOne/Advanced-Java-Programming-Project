@@ -9,5 +9,6 @@ public class SymptomObjects extends SymptomSuperclass{
 		super(symptomName,num);
 		this.infectivityNum = infectNum;
 		this.lethalityNum = lethalNum;
+		//l
 	}
 }

@@ -7,5 +7,6 @@ public class SymptomSuperclass {
 	public SymptomSuperclass(String symptomName, int symptomNumber) {
 		this.symptomName = symptomName;
 		this.symptomNumber = symptomNumber;
+		//l
 	}
 }
